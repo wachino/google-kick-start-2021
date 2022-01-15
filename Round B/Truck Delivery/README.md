@@ -3,6 +3,7 @@
 ## Solution code
 
 See [solution source code c++](/Round%20B/Truck%20Delivery/solution.cpp)
+
 See [solution source code js](/Round%20B/Truck%20Delivery/solution.js)
 
 ## Analysis
